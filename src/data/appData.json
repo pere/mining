@@ -1,0 +1,71 @@
+[
+      {
+        "name": "Tanzania",
+        "adm_0_code": 257,
+        "center": [34.744692, -6.695212],
+        "zoom": 5.5,
+        "story":true,
+        "stories":[{
+            "title":"Natural Parks",
+            "data":[
+                {
+                    "index":0,
+                    "class":"descripton",
+                    "description":"Descripton of the story",
+                    "text":"Text about the story"
+                },
+                {
+                    "index":1,
+                    "class":"descripton",
+                    "description":"Descripton of the story 2",
+                    "text":"Text about the story 2"
+                }
+            ]
+        
+            },
+            {
+                "title":"Owners",
+                "data":[
+                    {
+                        "index":0,
+                        "class":"descripton",
+                        "description":"Descripton of the story",
+                        "text":"Text about the story"
+                    },
+                    {
+                        "index":1,
+                        "class":"descripton",
+                        "description":"Descripton of the story 2",
+                        "text":"Text about the story 2"
+                    }
+                ]
+            }]
+        ,
+        "bbox":{"type":"Polygon","coordinates":[[[12.2,-13.46],[12.2,5.39],[31.31,5.39],[31.31,-13.46],[12.2,-13.46]]]}
+      },
+    
+      {
+        "name": "Zambia",
+        "adm_0_code": 270,
+        "center": [26.0122003433, -13.396964],
+        "zoom": 5.4,
+        
+        "bbox":{"type":"Polygon","coordinates":[[[22,-18.08],[22,-8.19],[33.71,-8.19],[33.71,-18.08],[22,-18.08]]]}
+      },
+      {
+        "name": "Kenya",
+        "adm_0_code": 133,
+        "center": [38.200321, -0.413958],
+        "zoom": 6,
+        "bbox":{"type":"Polygon","coordinates":[[[33.91,-4.68],[33.91,4.62],[41.91,4.62],[41.91,-4.68],[33.91,-4.68]]]}
+      },
+      {
+        "name": "Malawi",
+        "adm_0_code": 152,
+        "center": [34.319057, -13.775900],
+        "zoom": 6,
+        "bbox":{"type":"Polygon","coordinates":[[[29.34,-11.76],[29.34,-0.98],[40.45,-0.98],[40.45,-11.76],[29.34,-11.76]]]}
+      }
+    ]
+  
+  
